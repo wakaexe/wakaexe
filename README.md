@@ -26,18 +26,7 @@
 
 <div align="center">
 
-<!-- КАРТОЧКА -->
-<table>
-<tr>
-<td width="100%" align="center">
-
-### 🧑‍💻 Обо мне
-
 Разрабатываю на **Python** и **FastAPI** — это мой основной стек. На фронте работаю с **React**, **JavaScript**, **HTML/CSS**. Постоянно учусь новому, иногда пилю проекты с нуля до деплоя. Открыт к коллаборациям — если есть идея или хочешь покодить вместе, пиши в телеграм.
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -92,11 +81,31 @@
 
 ---
 
+## 🏆 Достижения
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=wakaexe&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
 ## 📈 Граф Активности
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wakaexe&theme=tokyonight&hide_border=true&color=00d4aa&bg_color=0d1117" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/wakaexe/wakaexe/output/github-snake.svg" alt="snake" width="100%" />
 
 </div>
 
