@@ -14,12 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk@v2
         with:
           github_user_name: wakaexe
           outputs: dist/snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
