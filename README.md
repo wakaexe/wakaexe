@@ -1,28 +1,28 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════ -->
-<!--               HEADER                        -->
+<!--          ✧ Y2K HEADER ✧                     -->
 <!-- ═══════════════════════════════════════════ -->
 
-<a href="https://github.com/wakaexe">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:0d1117&height=220&section=header&text=WAKA&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20%2B%20FastAPI&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,25:da70d6,50:9370db,75:6a5acd,100:4b0082&height=250&section=header&text=%E2%9C%A7+WAKA+%E2%9C%A7&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack+Developer+%E2%9C%A7+Python+%2B+FastAPI&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
-<!-- ТАЙПИНГ АНИМАЦИЯ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer;Python+%2B+FastAPI+Enthusiast;Building+Cool+Stuff;Welcome+to+my+space+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- ✧ ТАЙПИНГ ✧ -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A7+Full-Stack+Developer+%E2%9C%A7;Python+%2B+FastAPI+Enthusiast;Building+Cool+Stuff;Welcome+to+my+space+%E2%9C%A7" alt="Typing SVG" />
 
 <br/>
 
-<!-- БЕЙДЖИ -->
-<img src="https://komarev.com/ghpvc/?username=wakaexe&color=00d4aa&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/wakaexe?color=00d4aa&style=flat-square&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/wakaexe?color=00d4aa&style=flat-square&logo=github&logoColor=white&label=STARS" alt="Stars"/>
+<!-- ✧ БЕЙДЖИ ✧ -->
+<img src="https://komarev.com/ghpvc/?username=wakaexe&color=ff69b4&style=flat-square&label=VIEWS&logo=github&logoColor=white" alt="Views"/>
+<img src="https://img.shields.io/github/followers/wakaexe?color=da70d6&style=flat-square&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/wakaexe?color=9370db&style=flat-square&logo=github&logoColor=white&label=STARS" alt="Stars"/>
+<img src="https://img.shields.io/github/repos/wakaexe?color=6a5acd&style=flat-square&logo=github&logoColor=white&label=REPOS" alt="Repos"/>
+<img src="https://img.shields.io/github/forks/wakaexe?color=4b0082&style=flat-square&logo=github&logoColor=white&label=FORKS" alt="Forks"/>
 
 </div>
 
 ---
 
-## 👋 Привет, я Waka
+## ✧ Привет, я Waka ✧
 
 <div align="center">
 
@@ -32,11 +32,11 @@
 
 ---
 
-## 🛠️ Мой Стек
+## ✧ Мой Стек ✧
 
 <div align="center">
 
-### 🔹 Языки
+### ✦ Языки
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -46,7 +46,7 @@
 
 <br/>
 
-### ⚡ Фреймворки
+### ✦ Фреймворки
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -57,7 +57,7 @@
 
 <br/>
 
-### 🧰 Инструменты
+### ✦ Инструменты
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -70,36 +70,93 @@
 
 ---
 
-## 📊 GitHub Статистика
+## ✧ GitHub Статистика ✧
 
 <div align="center">
 
-<!-- Карточка с основной статистикой -->
-<img src="https://github-readme-stats.vercel.app/api?username=wakaexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa" width="400" />
+<!-- Основная статистика через shields.io -->
+<table>
+<tr>
+<td align="center" width="50%">
 
-<!-- Топ языков -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakaexe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa" width="400" />
+### 📊 Коммиты
+<img src="https://img.shields.io/badge/Commits-21-da70d6?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+<td align="center" width="50%">
+
+### 📦 Репозитории
+<img src="https://img.shields.io/badge/Repos-wakaexe-9370db?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ⭐ Звёзды
+<img src="https://img.shields.io/badge/Stars-wakaexe-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+<td align="center" width="50%">
+
+### 👥 Фолловеры
+<img src="https://img.shields.io/badge/Followers-wakaexe-6a5acd?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 Граф Активности
+## ✧ Граф Активности ✧
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wakaexe&theme=tokyonight&hide_border=true&color=00d4aa&bg_color=0d1117" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wakaexe&theme=tokyonight&hide_border=true&color=ff69b4&bg_color=0d1117" width="100%" />
 
 </div>
 
 ---
 
-## 📬 Связаться со мной
+## ✧ Достижения ✧
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🏆 First Commit
+<img src="https://img.shields.io/badge/2026-03-16-da70d6?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+### 🔥 Most Active Day
+<img src="https://img.shields.io/badge/2026-07-12-12+commits-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+### 📈 Total Contributions
+<img src="https://img.shields.io/badge/21+contributions-9370db?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ✧ Связаться со мной ✧
 
 <div align="center">
 
 <a href="https://t.me/devwaka" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Напиши+мне&message=@devwaka" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=%E2%9C%A7+Write+me&message=@devwaka" alt="Telegram"/>
 </a>
 
 <a href="mailto:makkaunt012@gmail.com" target="_blank">
@@ -116,6 +173,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,25:6a5acd,50:9370db,75:da70d6,100:ff69b4&height=120&section=footer&text=%E2%9C%A7+Thanks+for+visiting!+%E2%9C%A7&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 </div>
