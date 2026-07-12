@@ -4,10 +4,10 @@
 <!--          ✧ Y2K HEADER ✧                     -->
 <!-- ═══════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,25:da70d6,50:9370db,75:6a5acd,100:4b0082&height=250&section=header&text=%E2%9C%A7+WAKA+%E2%9C%A7&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack+Developer+%E2%9C%A7+Python+%2B+FastAPI&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,25:da70d6,50:9370db,75:6a5acd,100:4b0082&height=250&section=header&text=%E2%9C%A7+WAKA+%E2%9C%A7&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Python+%E2%9C%A7+Bots+%E2%9C%A7+Websites+%E2%9C%A7+Vibecoder&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- ✧ ТАЙПИНГ ✧ -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A7+Full-Stack+Developer+%E2%9C%A7;Python+%2B+FastAPI+Enthusiast;Building+Cool+Stuff;Welcome+to+my+space+%E2%9C%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A7+Python+%E2%9C%A7;Bots+%26+Websites;Vibecoder;Welcome+to+my+space+%E2%9C%A7" alt="Typing SVG" />
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-Разрабатываю на **Python** и **FastAPI** — это мой основной стек. На фронте работаю с **React**, **JavaScript**, **HTML/CSS**. Постоянно учусь новому, иногда пилю проекты с нуля до деплоя. Открыт к коллаборациям — если есть идея или хочешь покодить вместе, пиши в телеграм.
+Пишу на **Python** — делаю ботов, сайты, и всякое по малой части. Иногда вайбкодю. Если есть идея или хочешь покодить вместе — пиши в телеграм.
 
 </div>
 
@@ -52,8 +52,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 <br/>
 
