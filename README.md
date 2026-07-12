@@ -74,18 +74,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wakaexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakaexe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa" />
+<!-- Карточка с основной статистикой -->
+<img src="https://github-readme-stats.vercel.app/api?username=wakaexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa" width="400" />
 
-</div>
-
----
-
-## 🏆 Достижения
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=wakaexe&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<!-- Топ языков -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakaexe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa" width="400" />
 
 </div>
 
