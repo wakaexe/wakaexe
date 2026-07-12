@@ -38,7 +38,6 @@
 - 📚 **Учусь** новым технологиям каждый день
 - 💡 **Превращаю** кофе в код
 - 🎯 **Открыт** к коллаборациям и новым проектам
-- 🐛 **Дебажу** в 3 часа ночи
 
 </td>
 <td width="50%" valign="top">
@@ -47,11 +46,9 @@
 
 | | |
 |---|---|
-| 🏠 **Локация** | 🌍 Earth |
 | 💼 **Роль** | Full-Stack Developer |
 | 🔧 **Стек** | Python, JS, TS |
 | ⚡ **Фреймворки** | FastAPI, React |
-| 🎯 **Хобби** | Код,学习, Создание |
 | 📬 **Telegram** | [@devwaka](https://t.me/devwaka) |
 
 </td>
@@ -168,14 +165,6 @@
 
 <a href="https://github.com/wakaexe" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://linkedin.com/in/wakaexe" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://discord.gg/wakaexe" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 </div>
