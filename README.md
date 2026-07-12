@@ -101,16 +101,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/wakaexe/wakaexe/output/snake.svg" alt="snake" width="100%" />
-
-</div>
-
----
-
 ## 📬 Связаться со мной
 
 <div align="center">
