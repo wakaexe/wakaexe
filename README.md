@@ -105,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/wakaexe/wakaexe/output/github-snake.svg" alt="snake" width="100%" />
+<img src="https://raw.githubusercontent.com/wakaexe/wakaexe/output/snake.svg" alt="snake" width="100%" />
 
 </div>
 

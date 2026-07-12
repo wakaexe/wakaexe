@@ -1,4 +1,4 @@
-name: Generate Snakes
+name: Generate Snake
 
 on:
   schedule:
@@ -9,20 +9,17 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: wakaexe
-          svg_out: dist/github-snake.svg
-          svg_out_dark: dist/github-snake-dark.svg
+          outputs: dist/snake.svg
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
