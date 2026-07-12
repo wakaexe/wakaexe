@@ -1,178 +1,136 @@
-<div align="center">
-
-<!-- ═══════════════════════════════════════════ -->
-<!--          ✧ Y2K HEADER ✧                     -->
-<!-- ═══════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,25:da70d6,50:9370db,75:6a5acd,100:4b0082&height=250&section=header&text=%E2%9C%A7+WAKA+%E2%9C%A7&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack+Developer+%E2%9C%A7+Python+%2B+FastAPI&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
-
-<!-- ✧ ТАЙПИНГ ✧ -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A7+Full-Stack+Developer+%E2%9C%A7;Python+%2B+FastAPI+Enthusiast;Building+Cool+Stuff;Welcome+to+my+space+%E2%9C%A7" alt="Typing SVG" />
-
-<br/>
-
-<!-- ✧ БЕЙДЖИ ✧ -->
-<img src="https://komarev.com/ghpvc/?username=wakaexe&color=ff69b4&style=flat-square&label=VIEWS&logo=github&logoColor=white" alt="Views"/>
-<img src="https://img.shields.io/github/followers/wakaexe?color=da70d6&style=flat-square&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/wakaexe?color=9370db&style=flat-square&logo=github&logoColor=white&label=STARS" alt="Stars"/>
-<img src="https://img.shields.io/github/repos/wakaexe?color=6a5acd&style=flat-square&logo=github&logoColor=white&label=REPOS" alt="Repos"/>
-<img src="https://img.shields.io/github/forks/wakaexe?color=4b0082&style=flat-square&logo=github&logoColor=white&label=FORKS" alt="Forks"/>
-
-</div>
-
----
-
-## ✧ Привет, я Waka ✧
-
-<div align="center">
-
-Разрабатываю на **Python** и **FastAPI** — это мой основной стек. На фронте работаю с **React**, **JavaScript**, **HTML/CSS**. Постоянно учусь новому, иногда пилю проекты с нуля до деплоя. Открыт к коллаборациям — если есть идея или хочешь покодить вместе, пиши в телеграм.
-
-</div>
-
----
-
-## ✧ Мой Стек ✧
-
-<div align="center">
-
-### ✦ Языки
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<br/>
-
-### ✦ Фреймворки
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-<br/>
-
-### ✦ Инструменты
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
-</div>
-
----
-
-## ✧ GitHub Статистика ✧
-
-<div align="center">
-
-<!-- Основная статистика через shields.io -->
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="70%" valign="top">
 
-### 📊 Коммиты
-<img src="https://img.shields.io/badge/Commits-21-da70d6?style=for-the-badge&logo=github&logoColor=white" />
+# Waka
+
+```
+██████╗    ██╗    ███████╗ ██████╗  ██╗   ██╗
+██╔══██╗   ██║    ██╔════╝ ██╔══██╗ ██║   ██║
+██████╔╝   ██║    █████╗   ██████╔╝ ██║   ██║
+██╔══██╗   ██║    ██╔══╝   ██╔══██╗ ██║   ██║
+██████╔╝   ██║    ██║      ██║  ██║ ╚██████╔╝
+╚═════╝    ╚═╝    ╚═╝      ╚═╝  ╚═╝  ╚═════╝
+```
+
+**Python + FastAPI** · **React** · **Full-Stack**
+
+Пишу код на Python и FastAPI, на фронте — React. Люблю когда проект работает с первого деплоя, но обычно это не так.
+
+---
+
+### Стек
+
+| | |
+|---|---|
+| **Языки** | `Python` `JavaScript` `TypeScript` `HTML/CSS` |
+| **Бэкенд** | `FastAPI` `Flask` `Django` |
+| **Фронтенд** | `React` `Node.js` `Tailwind CSS` |
+| **Инструменты** | `Git` `Docker` `Linux` `VS Code` |
+| **БД** | `PostgreSQL` `Redis` |
+
+---
+
+### Текущий статус
+
+- 🔨 Работаю над проектами на FastAPI
+- 📚 Учу новые технологии
+- 💡 Открыт к коллаборациям
 
 </td>
-<td align="center" width="50%">
+<td width="30%" valign="top">
 
-### 📦 Репозитории
-<img src="https://img.shields.io/badge/Repos-wakaexe-9370db?style=for-the-badge&logo=github&logoColor=white" />
+<div align="right">
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
+![Profile Views](https://komarev.com/ghpvc/?username=wakaexe&color=00ff88&style=flat-square&label=views)
 
-### ⭐ Звёзды
-<img src="https://img.shields.io/badge/Stars-wakaexe-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+![Followers](https://img.shields.io/github/followers/wakaexe?color=00d4ff&style=flat-square&logo=github&logoColor=white)
 
-</td>
-<td align="center" width="50%">
+![Stars](https://img.shields.io/github/stars/wakaexe?color=ff6b35&style=flat-square&logo=github&logoColor=white)
 
-### 👥 Фолловеры
-<img src="https://img.shields.io/badge/Followers-wakaexe-6a5acd?style=for-the-badge&logo=github&logoColor=white" />
+![Repos](https://img.shields.io/github/repos/wakaexe?color=bd93f9&style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+<div align="right">
+
+**Telegram**
+
+[![Telegram](https://img.shields.io/badge/@devwaka-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devwaka)
+
+</div>
+
+<div align="right">
+
+**Email**
+
+[![Gmail](https://img.shields.io/badge/makkaunt012-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makkaunt012@gmail.com)
+
+</div>
+
+<div align="right">
+
+**GitHub**
+
+[![GitHub](https://img.shields.io/badge/wakaexe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wakaexe)
+
+</div>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## ✧ Граф Активности ✧
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wakaexe&theme=tokyonight&hide_border=true&color=ff69b4&bg_color=0d1117" width="100%" />
-
-</div>
-
----
-
-## ✧ Достижения ✧
-
-<div align="center">
+## Статистика
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%">
 
-### 🏆 First Commit
-<img src="https://img.shields.io/badge/2026-03-16-da70d6?style=for-the-badge&logo=github&logoColor=white" />
-
-</td>
-<td align="center" width="33%">
-
-### 🔥 Most Active Day
-<img src="https://img.shields.io/badge/2026-07-12-12+commits-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+![Waka's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakaexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88)
 
 </td>
-<td align="center" width="33%">
+<td width="50%">
 
-### 📈 Total Contributions
-<img src="https://img.shields.io/badge/21+contributions-9370db?style=for-the-badge&logo=github&logoColor=white" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wakaexe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff)
 
 </td>
 </tr>
 </table>
 
-</div>
+---
+
+## Активность
+
+![Waka's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wakaexe&theme=tokyonight&hide_border=true&color=bd93f9&bg_color=0d1117)
 
 ---
 
-## ✧ Связаться со мной ✧
+## Достижения
 
-<div align="center">
+<table>
+<tr>
+<td align="center">
 
-<a href="https://t.me/devwaka" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=%E2%9C%A7+Write+me&message=@devwaka" alt="Telegram"/>
-</a>
+**Первый коммит**
 
-<a href="mailto:makkaunt012@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email&message=makkaunt012@gmail.com" alt="Gmail"/>
-</a>
+`2026-03-16`
 
-<a href="https://github.com/wakaexe" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+</td>
+<td align="center">
 
-</div>
+**Самый активный день**
 
----
+`12 коммитов · 12 июля`
 
-<div align="center">
+</td>
+<td align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,25:6a5acd,50:9370db,75:da70d6,100:ff69b4&height=120&section=footer&text=%E2%9C%A7+Thanks+for+visiting!+%E2%9C%A7&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
+**Всего вкладов**
 
-</div>
+`21 коммит за год`
+
+</td>
+</tr>
+</table>
